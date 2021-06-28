@@ -1,1 +1,1 @@
-{"concepts":[{"code":"AI4EO","description":"AI4EO Ecosystem Analysis","name":"AI4EO Ecosystem Analysis"}]}
+{"concepts":[{"code":"AI4EO","description":"AI4EO Ecosystem Analysis","name":"AI4EO Ecosystem Analysis"},{"code":"DP","description":"There are a vast range of data that may be potentially of use. Given the aim of combining the use of AI and EO, we will consider data providers as being providers of either (a) EO or (b) other data for training or validation.","name":"Data providers"}],"relations":[ {"name":"is subconcept of","source":1,"target":0}]}
