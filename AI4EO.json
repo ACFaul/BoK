@@ -23,6 +23,10 @@
   "code" : "R&RF",
   "description" : "There is a growing and active research community concerned with the combined use of AI methods and EO data. These funded projects span development of new methods and technologies, plus efforts to build capacity and the community.",
   "name" : "Researchers and Research Funding"
+ }, {
+  "code" : "TLR",
+  "description" : "Related to the growing application of AI and EO, numerous training and learning resources are available.",
+  "name" : "Training and Learning Resources"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -46,6 +50,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 5,
+  "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 6,
   "target" : 0
  }],
  "skills":[],
