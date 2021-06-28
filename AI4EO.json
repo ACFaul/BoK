@@ -15,6 +15,10 @@
   "code" : "ST",
   "description" : "A wide range of software tools for AI and ML applications of EO data. Many satellite data applications can achieve their aims effectively with simple software with no AI specialisation at all. As this resource addresses the intersection of AI and EO, we will consider software that addresses AI or ML methods in a specific way.",
   "name" : "Software Tools"
+ }, {
+  "code" : "SP",
+  "description" : "This category includes commercial companies and public sector organisations who are currently developing or delivering services based on information extraction from EO data using AI methods. In several cases, EO companies   have established new EO analytics platforms using AI to extract information and insights from backend EO data archives.",
+  "name" : "Service Providers"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -30,6 +34,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 3,
+  "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 4,
   "target" : 0
  }],
  "skills":[],
