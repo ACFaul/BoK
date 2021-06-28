@@ -9,8 +9,12 @@
   "name" : "Data providers"
  }, {
   "code" : "PP",
-  "description" : "novel options for accessing and processing the EO data. A growing array of online EO hubs and platforms, both commercial and research focused, are emerging in response to new user requirements stimulated by this trend. These cloud platforms provide combined EO data search and generic research capabilities, often with specific tools to develop new processing workflows and scale them up to support large scale batch or scheduled processing.",
-  "name" : "Processing platforms"
+  "description" : "Novel options for accessing and processing the EO data. A growing array of online EO hubs and platforms, both commercial and research focused, are emerging in response to new user requirements stimulated by this trend. These cloud platforms provide combined EO data search and generic research capabilities, often with specific tools to develop new processing workflows and scale them up to support large scale batch or scheduled processing.",
+  "name" : "Processing Platforms"
+ }, {
+  "code" : "ST",
+  "description" : "A wide range of software tools for AI and ML applications of EO data. Many satellite data applications can achieve their aims effectively with simple software with no AI specialisation at all. As this resource addresses the intersection of AI and EO, we will consider software that addresses AI or ML methods in a specific way.",
+  "name" : "Software Tools"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -22,6 +26,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 2,
+  "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 3,
   "target" : 0
  }],
  "skills":[],
