@@ -31,6 +31,10 @@
   "code" : "EU",
   "description" : "The last, but perhaps the most important group are the end users who want actionable insight from the data. Ultimately this sector are the consumers who value the information being provided to them and who drive the requirements for information and services. The range of uses are growing and almost as broad as the entire EO user base. Providing a detailed breakdown is beyond the scope of this resource and more comprehensively addressed in EO market analyses such as those compiled by Euroconsult  and EARSC. But it is clear AI and EO will combine to provide key information across public and private sectors, input to scientific research programmes and NGOs, plus policy advice and monitoring of targets such as UN Sustainable Development Goals.",
   "name" : "End Users"
+ }, {
+  "code" : "EOD",
+  "description" : "Satellites are used to forecast the weather, answer important Earth-science questions, provide essential information to improve agricultural practices, maritime safety, help when disaster strikes, and all manner of everyday applications. The need for these data is increasing resulting in the diversity and volume of data delivered by EO satellites increasing significantly in recent years.",
+  "name" : "EO Data"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -63,6 +67,10 @@
   "name" : "is subconcept of",
   "source" : 7,
   "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 8,
+  "target" : 1
  }],
  "skills":[],
  "updateDate":"2021/06/28",
