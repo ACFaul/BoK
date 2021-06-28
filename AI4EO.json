@@ -35,6 +35,10 @@
   "code" : "EOD",
   "description" : "Satellites are used to forecast the weather, answer important Earth-science questions, provide essential information to improve agricultural practices, maritime safety, help when disaster strikes, and all manner of everyday applications. The need for these data is increasing resulting in the diversity and volume of data delivered by EO satellites increasing significantly in recent years.",
   "name" : "EO Data"
+ }, {
+  "code" : "TVD",
+  "description" : "With respect to ML method development, the lack of suitable training data is a frequently encountered problem. Labelled data is scarce.  The application of ML to EO data can only be realised with high-quality training data which encompasses all the features that we aim to identify, map, and monitor. A diverse and functional AI4EO ecosystem will need to include open training data libraries providing a repository for registering labelled data so that it can be discovered and shared openly. However, there is a reluctance to share such data due to a combination of technical, financial, competitive and policy constraints.",
+  "name" : "Training and Validation Data"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -70,6 +74,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 8,
+  "target" : 1
+ }, {
+  "name" : "is subconcept of",
+  "source" : 9,
   "target" : 1
  }],
  "skills":[],
