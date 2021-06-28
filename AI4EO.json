@@ -9,7 +9,7 @@
   "name" : "Data providers"
  }, {
   "code" : "PP",
-  "description" : "",
+  "description" : "novel options for accessing and processing the EO data. A growing array of online EO hubs and platforms, both commercial and research focused, are emerging in response to new user requirements stimulated by this trend. These cloud platforms provide combined EO data search and generic research capabilities, often with specific tools to develop new processing workflows and scale them up to support large scale batch or scheduled processing.",
   "name" : "Processing platforms"
  }],
  "contributors":[],
@@ -18,6 +18,10 @@
  "relations":[ {
   "name" : "is subconcept of",
   "source" : 1,
+  "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 2,
   "target" : 0
  }],
  "skills":[],
