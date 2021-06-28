@@ -19,6 +19,10 @@
   "code" : "SP",
   "description" : "This category includes commercial companies and public sector organisations who are currently developing or delivering services based on information extraction from EO data using AI methods. In several cases, EO companies   have established new EO analytics platforms using AI to extract information and insights from backend EO data archives.",
   "name" : "Service Providers"
+ }, {
+  "code" : "R&RF",
+  "description" : "There is a growing and active research community concerned with the combined use of AI methods and EO data. These funded projects span development of new methods and technologies, plus efforts to build capacity and the community.",
+  "name" : "Researchers and Research Funding"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -38,6 +42,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 4,
+  "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 5,
   "target" : 0
  }],
  "skills":[],
