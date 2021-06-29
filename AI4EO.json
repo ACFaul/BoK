@@ -43,6 +43,11 @@
   "code" : "TEP",
   "description" : "For the purpose of allowing data, infrastructure, tool, algorithm and knowledge owners to share their assets, allowing users to easily get access to satellite data and extract information out of them without the need to download any dataset. This availability of all the needed ingredients in a shared collaboration environment represents a unique opportunity for science and applications but also poses a major challenge in realizing its full potential in terms of data exploitation. ",
   "name" : "Thematic Exploitation Platforms"
+ }, {
+  "code" : "openEO",
+  "description" : "openEO develops an open API that connects clients like R, Python and JavaScript to big EO cloud back-ends in a simple and unified way.",
+  "url" : "openeo.org",
+  "name" : "openEO"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -86,6 +91,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 10,
+  "target" : 2
+ }, {
+  "name" : "is subconcept of",
+  "source" : 11,
   "target" : 2
  }],
  "skills":[],
