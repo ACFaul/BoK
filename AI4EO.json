@@ -49,7 +49,7 @@
   "url" : "openeo.org",
   "name" : "openEO"
  }],
- "contributors" : [ {
+ "contributors" : [ { 
   "concepts" : [ 0 ],
   "description":" ",
   "name" : "AI4EO Accelerator",
