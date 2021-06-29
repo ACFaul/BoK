@@ -39,6 +39,10 @@
   "code" : "TVD",
   "description" : "With respect to ML method development, the lack of suitable training data is a frequently encountered problem. Labelled data is scarce.  The application of ML to EO data can only be realised with high-quality training data which encompasses all the features that we aim to identify, map, and monitor. A diverse and functional AI4EO ecosystem will need to include open training data libraries providing a repository for registering labelled data so that it can be discovered and shared openly. However, there is a reluctance to share such data due to a combination of technical, financial, competitive and policy constraints.",
   "name" : "Training and Validation Data"
+ }, {
+  "code" : "TEP",
+  "description" : "For the purpose of allowing data, infrastructure, tool, algorithm and knowledge owners to share their assets, allowing users to easily get access to satellite data and extract information out of them without the need to download any dataset. This availability of all the needed ingredients in a shared collaboration environment represents a unique opportunity for science and applications but also poses a major challenge in realizing its full potential in terms of data exploitation. ",
+  "name" : "Thematic Exploitation Platforms"
  }],
  "contributors":[],
  "creationYear":2021,
@@ -79,6 +83,10 @@
   "name" : "is subconcept of",
   "source" : 9,
   "target" : 1
+ }, {
+  "name" : "is subconcept of",
+  "source" : 10,
+  "target" : 2
  }],
  "skills":[],
  "updateDate":"2021/06/28",
