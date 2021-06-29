@@ -56,7 +56,12 @@
   "url" : "https://www.bas.ac.uk/project/ai4eoaccelerator/"
  }],
  "creationYear":2021,
- "references":[],
+ "references":[{
+    "concepts" : [ 0 ],
+    "description" : " ",
+    "name" : "A. Okabe. (1992). Spatial Tessellations: Concepts and Applications of Voronoi Diagrams.",
+    "url" : "https://www.semanticscholar.org/paper/Spatial-Tessellations%3A-Concepts-and-Applications-of-Okabe-Boots/9fca23912d064e4cc5d1fd3ed9786a2256d763d5"
+  }],
  "relations":[ {
   "name" : "is subconcept of",
   "source" : 1,
