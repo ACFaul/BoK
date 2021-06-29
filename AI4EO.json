@@ -98,7 +98,7 @@
   "target" : 2
  }],
  "skills" : [ { 
-  "concepts" : [ 0 ],
+  "concepts" : [ 1 ],
   "name" : "AI4EO Accelerator",
  }],
  "updateDate":"2021/06/28",
