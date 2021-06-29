@@ -49,12 +49,7 @@
   "url" : "openeo.org",
   "name" : "openEO"
  }],
- "contributors" : [ { 
-  "concepts" : [ 0 ],
-  "description":" ",
-  "name" : "AI4EO Accelerator",
-  "url" : "https://www.bas.ac.uk/project/ai4eoaccelerator/"
- }],
+ "contributors" : [],
  "creationYear":2021,
  "references":[],
  "relations":[ {
