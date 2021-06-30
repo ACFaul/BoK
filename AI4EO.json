@@ -114,6 +114,66 @@
   "description" : " ",
   "name" : "GEO Biodiversity Observation Network",
   "url" : "https://portal.geobon.org/datasets"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "ENVRI",
+  "url" : "https://envri.eu/"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "GEOSS Geoportal",
+  "url" : "https://www.geoportal.org"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Sentinel Hub",
+  "url" : "https://www.sentinel-hub.com"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Copernicus Open Access Hub",
+  "url" : "https://scihub.copernicus.eu"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Amazon Earth on AWS",
+  "url" : "https://aws.amazon.com/earth"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Google Earth Engine",
+  "url" : "https://earthengine.google.com"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "UK JASMIN facility",
+  "url" : "https://www.jasmin.ac.uk/"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "CANDELA",
+  "url" : "https://candela-h2020.eu/"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "EU DIAS platforms",
+  "url" : "https://www.copernicus.eu/en/access-data/dias"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Open Data Cube",
+  "url" : "https://www.opendatacube.org"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Euro Data Cube",
+  "url" : "https://eurodatacube.com/"
+ }, { 
+  "concepts" : [ 2 ],
+  "description" : " ",
+  "name" : "Pangeo",
+  "url" : "https://pangeo.io/"
  }],
  "creationYear":2021,
  "references":[],
