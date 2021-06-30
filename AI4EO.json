@@ -59,6 +59,10 @@
   "code" : "AP",
   "description" : "EO companies   have established new EO analytics platforms using AI to extract information and insights from backend EO data archives.",
   "name" : "Analystics Platforms"
+ }, {
+  "code" : "SM",
+  "description" : "Providers currently using AI in the Earth Observation service market.",
+  "name" : "Service Market"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -360,6 +364,36 @@
   "description" : " ",
   "name" : "UP42 – Open marketplace and EO analytics platform",
   "url" : "https://marketplace.up42.com/"
+ }, { 
+  "concepts" : [ 15 ],
+  "description" : "AI in-orbit for image processing and neural network inference applications",
+  "name" : "Ubotica",
+  "url" : "https://ubotica.com"
+ }, { 
+  "concepts" : [ 15 ],
+  "description" : "Fusing multi-resolution and multi-sensor earth observation data with ML and AI to provide near-real time actionable geospatial insights.",
+  "name" : "Earthi",
+  "url" : "https://earthi.space"
+ }, { 
+  "concepts" : [ 15 ],
+  "description" : "Using machine learning for real-time detection of Earth science phenomena.",
+  "name" : "Phenomena Detection Portal",
+  "url" : "http://phenomena.surge.sh"
+ }, { 
+  "concepts" : [ 15 ],
+  "description" : "Utilises satellite technology to provide an irrefutable means of reporting forestry changes and verifying sustainable sourcing.",
+  "name" : "Starling",
+  "url" : "https://www.starling-verification.com"
+ }, { 
+  "concepts" : [ 15 ],
+  "description" : "A digital twin platform that uses AI and cloud computing to automatically transform input such as satellite data, aerial images or map and sensor data into building and landscape assets that contribute to a photorealistic 3D environment.",
+  "name" : "Blackshark.ai",
+  "url" : "https://blackshark.ai"
+ }, { 
+  "concepts" : [ 15 ],
+  "description" : "Use artificial intelligence and machine learning techniques to improve the accuracy of derived products.",
+  "name" : "EarthWave",
+  "url" : "https://earthwave.co.uk/
  }],
  "creationYear":2021,
  "references":[],
@@ -418,6 +452,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 14,
+  "target" : 4
+ }, {
+  "name" : "is subconcept of",
+  "source" : 15,
   "target" : 4
  }],
  "skills" : [ ],
