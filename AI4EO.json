@@ -64,9 +64,13 @@
   "description" : "Providers currently using AI in the Earth Observation service market.",
   "name" : "Service Market"
  }, {
-  "code" : "Copernicus",
+  "code" : "C",
   "description" : "The European Commision Horizon 2020 Space programme and related funding initiatives support several very large research projects on big data and artificial intelligence for Copernicus and Earth Observation.",
   "name" : "Copernicus"
+ }, {
+  "code" : "WR&D",
+  "description" : "Beyond these large EC projects are numerous other R&D activities in the private, academic, government and NGO sectors, spanning all topics where EO data is a data input. The most accessible route to a comprehensive view of ‘who is doing what’ can be obtained by looking at the programs of numerous AI for EO conferences and conference sessions in recent years.",
+  "name" : "Wider Research and Development Activities"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -443,6 +447,36 @@
   "description" : "From Copernicus Big Data to Extreme Earth Analytics.",
   "name" : "Extreme Earth",
   "url" : "https://cordis.europa.eu/project/id/825258"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Sep 2019.",
+  "name" : "AI4Copernicus",
+  "url" : "https://www.ai4copernicus.org/programme/"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Nov 2020.",
+  "name" : "Workshop on Big Data and Artificial Intelligence for Earth Observation",
+  "url" : "https://ec.europa.eu/info/events/workshop-big-data-and-artificial-intelligence-earth-observation-2020-nov-19_en"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Sep 2020 (filter using the AI4EO tag).",
+  "name" : "Phi Week 2020",
+  "url" : "https://nikal.eventsair.com/esa-phiweek-2020/programme"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Nov 2019.",
+  "name" : "The 1st Artificial Intelligence for Copernicus Workshop",
+  "url" : "https://climate.copernicus.eu/1st-artificial-intelligence-copernicus-workshop"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Jan 2020.",
+  "name" : "Copernicus & Artificial Intelligence",
+  "url" : "https://www.copernicus.eu/en/events/events/copernicus-artificial-intelligence"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Dec 2020.",
+  "name" : "AGU 2020",
+  "url" : "https://agu.confex.com/agu/fm20/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=2&searchterm=machine%20learning%20remote%20sensing"
  }],
  "creationYear":2021,
  "references":[],
@@ -509,6 +543,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 16,
+  "target" : 5
+ }, {
+  "name" : "is subconcept of",
+  "source" : 17,
   "target" : 5
  }],
  "skills" : [ ],
