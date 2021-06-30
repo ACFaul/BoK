@@ -55,6 +55,10 @@
   "code" : "OS",
   "description" : "Increasingly tools such as R and Python are being used to analyse EO data. A number of open-source packages now exist which act as a bridge between EO data and established python tools for data science and machine learning.",
   "name" : "Open Source"
+ }, {
+  "code" : "AP",
+  "description" : "EO companies   have established new EO analytics platforms using AI to extract information and insights from backend EO data archives.",
+  "name" : "Analystics Platforms"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -77,7 +81,7 @@
   "name" : "Kaggle",
   "url" : "https://www.kaggle.com/datasets"
  }, { 
-  "concepts" : [ 9 ],
+  "concepts" : [ 9, 14 ],
   "description" : " ",
   "name" : "Radiant Earth Foundation",
   "url" : "https://www.radiant.earth"
@@ -326,6 +330,36 @@
   "description" : " ",
   "name" : "OpenML",
   "url" : "https://www.openml.org/home"
+ }, { 
+  "concepts" : [ 14 ],
+  "description" : " ",
+  "name" : "Airbus Defence and Space – One Atlas",
+  "url" : "https://www.intelligence-airbusds.com/oneatlas/"
+ }, { 
+  "concepts" : [ 14 ],
+  "description" : " ",
+  "name" : "Descartes Labs",
+  "url" : "https://www.descarteslabs.com/"
+ }, { 
+  "concepts" : [ 14 ],
+  "description" : " ",
+  "name" : "Orbital Insight – GO platform",
+  "url" : "https://orbitalinsight.com/products/orbital-insight-go/"
+ }, { 
+  "concepts" : [ 14 ],
+  "description" : " ",
+  "name" : "Planet Analytics",
+  "url" : "https://www.planet.com/products/analytics/"
+ }, { 
+  "concepts" : [ 14 ],
+  "description" : " ",
+  "name" : "SpaceKnow – Geospatial analysis engine",
+  "url" : "https://spaceknow.com/technology/"
+ }, { 
+  "concepts" : [ 14 ],
+  "description" : " ",
+  "name" : "UP42 – Open marketplace and EO analytics platform",
+  "url" : "https://marketplace.up42.com/"
  }],
  "creationYear":2021,
  "references":[],
@@ -381,6 +415,10 @@
   "name" : "is subconcept of",
   "source" : 13,
   "target" : 3
+ }, {
+  "name" : "is subconcept of",
+  "source" : 14,
+  "target" : 4
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
