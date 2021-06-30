@@ -63,6 +63,10 @@
   "code" : "SM",
   "description" : "Providers currently using AI in the Earth Observation service market.",
   "name" : "Service Market"
+ }, {
+  "code" : "Copernicus",
+  "description" : "The European Commision Horizon 2020 Space programme and related funding initiatives support several very large research projects on big data and artificial intelligence for Copernicus and Earth Observation.",
+  "name" : "Copernicus"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -165,8 +169,8 @@
   "name" : "UK JASMIN facility",
   "url" : "https://www.jasmin.ac.uk/"
  }, { 
-  "concepts" : [ 2 ],
-  "description" : " ",
+  "concepts" : [ 2, 16 ],
+  "description" : "Copernicus Access Platform Intermediate Layers Small Scale Demonstrator",
   "name" : "CANDELA",
   "url" : "https://candela-h2020.eu/"
  }, { 
@@ -457,6 +461,10 @@
   "name" : "is subconcept of",
   "source" : 15,
   "target" : 4
+ }, {
+  "name" : "is subconcept of",
+  "source" : 16,
+  "target" : 5
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
