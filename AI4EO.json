@@ -46,8 +46,11 @@
  }, {
   "code" : "openEO",
   "description" : "openEO develops an open API that connects clients like R, Python and JavaScript to big EO cloud back-ends in a simple and unified way.",
-  "url" : "openeo.org",
   "name" : "openEO"
+ }, {
+  "code" : "Desktop",
+  "description" : "Numerous examples of established remote sensing and EO image processing software have added specific AI and ML tools (supervised/unsupervised classification, target identification, change detection) to support automated extraction of information.",
+  "name" : "Desktop"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -259,6 +262,26 @@
   "description" : " ",
   "name" : "Joint Research Centre of the European Commission",
   "url" : "https://ec.europa.eu/jrc/en"
+ }, { 
+  "concepts" : [ 12 ],
+  "description" : " ",
+  "name" : "ENVI Deep Learning Module",
+  "url" : "https://www.l3harrisgeospatial.com/Software-Technology/ENVI-Deep-Learning"
+ }, { 
+  "concepts" : [ 12 ],
+  "description" : " ",
+  "name" : "ERDAS Imagine",
+  "url" : "https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine"
+ }, { 
+  "concepts" : [ 12 ],
+  "description" : " ",
+  "name" : "ORFEO Toolbox",
+  "url" : "https://www.orfeo-toolbox.org/"
+ }, { 
+  "concepts" : [ 12 ],
+  "description" : " ",
+  "name" : "ESRI ArcGIS",
+  "url" : "https://www.esri.com/en-us/arcgis/products/spatial-analytics-data-science/capabilities/machine-learning-ai"
  }],
  "creationYear":2021,
  "references":[],
