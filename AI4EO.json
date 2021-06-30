@@ -49,8 +49,12 @@
   "name" : "openEO"
  }, {
   "code" : "Desktop",
-  "description" : "Numerous examples of established remote sensing and EO image processing software have added specific AI and ML tools (supervised/unsupervised classification, target identification, change detection) to support automated extraction of information.",
+  "description" : "Numerous examples of established remote sensing and EO image processing desktop software tools have added specific AI and ML tools (supervised/unsupervised classification, target identification, change detection) to support automated extraction of information.",
   "name" : "Desktop"
+ }, {
+  "code" : "OS",
+  "description" : "Increasingly tools such as R and Python are being used to analyse EO data. A number of open-source packages now exist which act as a bridge between EO data and established python tools for data science and machine learning.",
+  "name" : "Open Source"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -282,6 +286,46 @@
   "description" : " ",
   "name" : "ESRI ArcGIS",
   "url" : "https://www.esri.com/en-us/arcgis/products/spatial-analytics-data-science/capabilities/machine-learning-ai"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "eo-learn",
+  "url" : "https://github.com/sentinel-hub/eo-learn"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "scikit-learn",
+  "url" : "https://scikit-learn.org/"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "scikit-image",
+  "url" : "https://scikit-image.org"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "OpenCV (Open Source Computer Vision Library)",
+  "url" : "https://opencv.org"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "LIBSVM",
+  "url" : "https://www.csie.ntu.edu.tw/~cjlin/libsvm/"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "SharkML",
+  "url" : "https://www.shark-ml.org"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "SpaceML",
+  "url" : "http://spaceml.org"
+ }, { 
+  "concepts" : [ 13 ],
+  "description" : " ",
+  "name" : "OpenML",
+  "url" : "https://www.openml.org/home"
  }],
  "creationYear":2021,
  "references":[],
@@ -332,6 +376,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 12,
+  "target" : 3
+ }, {
+  "name" : "is subconcept of",
+  "source" : 13,
   "target" : 3
  }],
  "skills" : [ ],
