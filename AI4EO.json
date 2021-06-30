@@ -398,6 +398,51 @@
   "description" : "Use artificial intelligence and machine learning techniques to improve the accuracy of derived products.",
   "name" : "EarthWave",
   "url" : "https://earthwave.co.uk/"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "opEn interOperable Platform for unified access and analysis of Earth observatioN data.",
+  "name" : "EOPEN",
+  "url" : "https://ec.europa.eu/info/files/eopen_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "Copernicus Artificial Intelligence Services and data fusion with other distributed data sources and processing at the edge to support DIAS and HPC infrastructures.",
+  "name" : "CALLISTO",
+  "url" : "https://ec.europa.eu/info/files/callisto_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "Global Earth Monitor.",
+  "name" : "GEM",
+  "url" : "https://ec.europa.eu/info/files/gem_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "A common, open source interface between Earth Observation data infrastructures and front-end applications.",
+  "name" : "OpenEO",
+  "url" : "https://ec.europa.eu/info/files/openeo_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "Explainable AI Pipelines for Big Copernicus Data.",
+  "name" : "DeepCube",
+  "url" : "https://ec.europa.eu/info/files/deepcube_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "Big Data knowledge extraction and re-creation platform.",
+  "name" : "PerceptiveSentinel",
+  "url" : "https://ec.europa.eu/info/files/perceptivesentinel_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "Big-data Earth Observation Technology and Tools Enhancing Research and development.",
+  "name" : "BETTER",
+  "url" : "https://ec.europa.eu/info/files/better_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "Advancing the State-of-the-Art for Rapid and Continuous Land Monitoring.",
+  "name" : "RapidAI4EO",
+  "url" : "https://ec.europa.eu/info/files/rapidai4eo_en"
+ }, { 
+  "concepts" : [ 16 ],
+  "description" : "From Copernicus Big Data to Extreme Earth Analytics.",
+  "name" : "Extreme Earth",
+  "url" : "https://cordis.europa.eu/project/id/825258"
  }],
  "creationYear":2021,
  "references":[],
