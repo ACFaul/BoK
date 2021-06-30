@@ -87,6 +87,30 @@
   "code" : "SE",
   "description" : "Border surveillance, vessel detection and identification.",
   "name" : "Security"
+ }, {
+  "code" : "AQ",
+  "description" : "Air quality information, pollution tracking and forecasting.",
+  "name" : "Air Quality"
+ }, {
+  "code" : "MA",
+  "description" : "Ocean current and sea state monitoring, marine Protected Areas monitoring.",
+  "name" : "Maritime"
+ }, {
+  "code" : "OG",
+  "description" : "Oilfield monitoring, pipeline monitoring.",
+  "name" : "Oil and Gas"
+ }, {
+  "code" : "RE",
+  "description" : "Site assessment and selection, energy supply forecasts.",
+  "name" : "Renewable Energy"
+ }, {
+  "code" : "ND",
+  "description" : "Assessment of risk exposure, hazard forecast and early warning.",
+  "name" : "Natural Disasters"
+ }, {
+  "code" : "UM",
+  "description" : "Urban infrastructure monitoring, urban heat monitoring.",
+  "name" : "Urban Monitoring"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -614,6 +638,30 @@
  }, {
   "name" : "is subconcept of",
   "source" : 21,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 22,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 23,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 24,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 25,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 26,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 27,
   "target" : 7
  }],
  "skills" : [ ],
