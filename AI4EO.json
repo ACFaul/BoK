@@ -115,6 +115,14 @@
   "code" : "WM",
   "description" : "Conservation adn biodivesrity knowledge.",
   "name" : "Wildlife Monitoring"
+ }, {
+  "code" : "FQ",
+  "description" : "Formal qualifications at undergraduate, postgraduate and doctoral level.",
+  "name" : "Formal Qulaifications"
+ }, {
+  "code" : "CA",
+  "description" : "Building skills with courses, certificates, and degrees online from world-class universities and companies.",
+  "name" : "Coursera"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -576,6 +584,26 @@
   "description" : "World Wildlife Fund",
   "name" : "WWF",
   "url" : "https://www.wwf.org.uk/"
+ }, { 
+  "concepts" : [ 29 ],
+  "description" : "Centre for Doctoral Training in Artificial Intelligence for the study of Environmental Risks.",
+  "name" : "AI4ER",
+  "url" : "https://ai4er-cdt.esc.cam.ac.uk/"
+ }, { 
+  "concepts" : [ 30 ],
+  "description" : "Broad introduction to machine learning, datamining, and statistical pattern recognition.",
+  "name" : "Machine Learning",
+  "url" : "https://www.coursera.org/learn/machine-learning"
+ }, { 
+  "concepts" : [ 30 ],
+  "description" : "Foundational program to understand the capabilities, challenges, and consequences of deep learning. Building and training neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers. Strategies such as Dropout, BatchNorm, Xavier/He initialization, and more.",
+  "name" : "Deeep Learning",
+  "url" : "https://www.coursera.org/specializations/deep-learning"
+ }, { 
+  "concepts" : [ 30 ],
+  "description" : "Fundamental nature of remote sensing and the platforms and sensor types used. In-depth treatment of the computational algorithms employed in image understanding, ranging from the earliest historically important techniques to more recent approaches based on deep learning.",
+  "name" : "Remote Sensing Image Acquisition, Analysis and Applications",
+  "url" : "https://www.coursera.org/learn/remote-sensing"
  }],
  "creationYear":2021,
  "references":[],
@@ -691,6 +719,14 @@
   "name" : "is subconcept of",
   "source" : 28,
   "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 29,
+  "target" : 6
+ }, {
+  "name" : "is subconcept of",
+  "source" : 30,
+  "target" : 6
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
