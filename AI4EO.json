@@ -329,6 +329,10 @@
   "name" : "is subconcept of",
   "source" : 11,
   "target" : 2
+ }, {
+  "name" : "is subconcept of",
+  "source" : 12,
+  "target" : 3
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
