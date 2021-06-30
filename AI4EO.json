@@ -24,7 +24,7 @@
   "description" : "There is a growing and active research community concerned with the combined use of AI methods and EO data. These funded projects span development of new methods and technologies, plus efforts to build capacity and the community.",
   "name" : "Researchers and Research Funding"
  }, {
-  "code" : "TLR",
+  "code" : "TL",
   "description" : "Related to the growing application of AI and EO, numerous training and learning resources are available.",
   "name" : "Training and Learning Resources"
  }, {
@@ -64,11 +64,11 @@
   "description" : "Providers currently using AI in the Earth Observation service market.",
   "name" : "Service Market"
  }, {
-  "code" : "C",
+  "code" : "CO",
   "description" : "The European Commision Horizon 2020 Space programme and related funding initiatives support several very large research projects on big data and artificial intelligence for Copernicus and Earth Observation.",
   "name" : "Copernicus"
  }, {
-  "code" : "WR&D",
+  "code" : "WR",
   "description" : "Beyond these large EC projects are numerous other R&D activities in the private, academic, government and NGO sectors, spanning all topics where EO data is a data input. The most accessible route to a comprehensive view of ‘who is doing what’ can be obtained by looking at the programs of numerous AI for EO conferences and conference sessions in recent years.",
   "name" : "Wider Research and Development Activities"
  }, {
@@ -79,6 +79,14 @@
   "code" : "RN",
   "description" : "Several research networks and groups are emerging which aim to focus on topics related to AI and EO. These groups broadly aim to coordinate and maintain longer-term activities focused on new methods or wider adoption of these methods.",
   "name" : "Research networks"
+ }, {
+  "code" : "FO",
+  "description" : "Forest health mapping, forest fire monitoring.",
+  "name" : "Forestry"
+ }, {
+  "code" : "SE",
+  "description" : "Border surveillance, vessel detection and identification.",
+  "name" : "Security"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -599,6 +607,14 @@
   "name" : "is subconcept of",
   "source" : 19,
   "target" : 5
+ }, {
+  "name" : "is subconcept of",
+  "source" : 20,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 21,
+  "target" : 7
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
