@@ -140,7 +140,7 @@
   "name" : "Amazon Earth on AWS",
   "url" : "https://aws.amazon.com/earth"
  }, { 
-  "concepts" : [ 2 ],
+  "concepts" : [ 2, 11 ],
   "description" : " ",
   "name" : "Google Earth Engine",
   "url" : "https://earthengine.google.com"
@@ -209,6 +209,56 @@
   "description" : " ",
   "name" : "food security",
   "url" : "https://foodsecurity-tep.net/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Technische Universität Wien",
+  "url" : "https://www.tuwien.at/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Westfälische Wilhelms-Universität Münster",
+  "url" : "https://www.uni-muenster.de/Geoinformatics/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Wageningen University",
+  "url" : "https://www.wur.nl/en/expertise-services/Chair-groups/Environmental-Sciences/Laboratory-of-Geoinformation-Science-and-Remote-Sensing.htm"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Vlaamse Instelling Voor Technologisch Onderzoek N.V.",
+  "url" : "https://remotesensing.vito.be/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Earth Observation Data Centre for Water Resources Monitoring GmbH",
+  "url" : "https://www.eodc.eu/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Mundialis GmbH and Co. KG",
+  "url" : "https://www.mundialis.de/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Sinergise Laboratorij Za Geografske Informacijske Sisteme Doo",
+  "url" : "http://www.sinergise.com/en/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Accademia Europea di Bolzano (EURAC Research)",
+  "url" : "http://www.eurac.edu/en/research/mountains/remsen/Pages/default.aspx"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Solenix Schweiz GmbH",
+  "url" : "https://www.solenix.ch/"
+ }, { 
+  "concepts" : [ 11 ],
+  "description" : " ",
+  "name" : "Joint Research Centre of the European Commission",
+  "url" : "https://ec.europa.eu/jrc/en"
  }],
  "creationYear":2021,
  "references":[],
