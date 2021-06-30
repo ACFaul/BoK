@@ -606,7 +606,7 @@
   "url" : "https://www.coursera.org/learn/remote-sensing"
  }],
  "creationYear":2021,
- "references":[{"concepts":[566],"description":" ","name":" ","url":"https://scied.ucar.edu/carbon-cycle"}],
+ "references":[ ],
  "relations":[ {
   "name" : "is subconcept of",
   "source" : 1,
