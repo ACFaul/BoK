@@ -93,7 +93,7 @@
   "name" : "Air Quality"
  }, {
   "code" : "MA",
-  "description" : "Ocean current and sea state monitoring, marine Protected Areas monitoring.",
+  "description" : "Ocean current and sea state monitoring, marine protected Areas monitoring.",
   "name" : "Maritime"
  }, {
   "code" : "OG",
@@ -111,6 +111,10 @@
   "code" : "UM",
   "description" : "Urban infrastructure monitoring, urban heat monitoring.",
   "name" : "Urban Monitoring"
+ }, {
+  "code" : "WM",
+  "description" : "Conservation adn biodivesrity knowledge.",
+  "name" : "Wildlife Monitoring"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -552,6 +556,26 @@
   "description" : "Artificial Intelligence for Earth Observation – Reasoning, Uncertainties, Ethics and Beyond.",
   "name" : "Future Lab AI4EO",
   "url" : "https://ai4eo.de"
+ }, { 
+  "concepts" : [ 23 ],
+  "description" : " ",
+  "name" : "European Maritime Safety Agency",
+  "url" : "http://www.emsa.europa.eu/we-do/surveillance.html"
+ }, { 
+  "concepts" : [ 23 ],
+  "description" : " ",
+  "name" : "Techworks Marine",
+  "url" : "https://techworks.ie/en/projects/coastal-validation/coasteo/"
+ }, { 
+  "concepts" : [ 28 ],
+  "description" : "United Nations Environment Programme World Conservation Monitoring Centre",
+  "name" : "UNEP-WCMC",
+  "url" : "https://www.unep-wcmc.org/"
+ }, { 
+  "concepts" : [ 28 ],
+  "description" : "World Wildlife Fund",
+  "name" : "WWF",
+  "url" : "https://www.wwf.org.uk/"
  }],
  "creationYear":2021,
  "references":[],
@@ -662,6 +686,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 27,
+  "target" : 7
+ }, {
+  "name" : "is subconcept of",
+  "source" : 28,
   "target" : 7
  }],
  "skills" : [ ],
