@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <div style="display: flex;">
+        <div id="bubbles" style="width: 45%;"> </div>
+        <div id="textInfo" style="width: 45%; margin:auto"></div>
+    </div>
+    <button onclick="getCurrentNode()">Current Node</button>
+</body>
+<script src="bundle.js"></script>
+<script>
+    bok.visualizeBOKData('#bubbles', '#textInfo')
+
+    function getCurrentNode() {
+        console.log(bok.getCurrentNode());
+    }
+</script>
+</html>
