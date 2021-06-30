@@ -1,50 +1,50 @@
 {
  "concepts" : [ {
-  "code" : "AI4EO", \\0
+  "code" : "AI4EO",
   "description" : "AI4EO Ecosystem Analysis",
   "name" : "AI4EO Ecosystem Analysis"
  }, {
-  "code" : "DP", \\1
+  "code" : "DP",
   "description" : "There are a vast range of data that may be potentially of use. Given the aim of combining the use of AI and EO, we will consider data providers as being providers of either (a) EO or (b) other data for training or validation.",
   "name" : "Data providers"
  }, {
-  "code" : "PP", \\2
+  "code" : "PP",
   "description" : "Novel options for accessing and processing the EO data. A growing array of online EO hubs and platforms, both commercial and research focused, are emerging in response to new user requirements stimulated by this trend. These cloud platforms provide combined EO data search and generic research capabilities, often with specific tools to develop new processing workflows and scale them up to support large scale batch or scheduled processing.",
   "name" : "Processing Platforms"
  }, {
-  "code" : "ST", \\3
+  "code" : "ST",
   "description" : "A wide range of software tools for AI and ML applications of EO data. Many satellite data applications can achieve their aims effectively with simple software with no AI specialisation at all. As this resource addresses the intersection of AI and EO, we will consider software that addresses AI or ML methods in a specific way.",
   "name" : "Software Tools"
  }, {
-  "code" : "SP", \\4
+  "code" : "SP",
   "description" : "This category includes commercial companies and public sector organisations who are currently developing or delivering services based on information extraction from EO data using AI methods. In several cases, EO companies   have established new EO analytics platforms using AI to extract information and insights from backend EO data archives.",
   "name" : "Service Providers"
  }, {
-  "code" : "R&RF", \\5
+  "code" : "R&RF",
   "description" : "There is a growing and active research community concerned with the combined use of AI methods and EO data. These funded projects span development of new methods and technologies, plus efforts to build capacity and the community.",
   "name" : "Researchers and Research Funding"
  }, {
-  "code" : "TLR", \\6
+  "code" : "TLR",
   "description" : "Related to the growing application of AI and EO, numerous training and learning resources are available.",
   "name" : "Training and Learning Resources"
  }, {
-  "code" : "EU", \\7
+  "code" : "EU",
   "description" : "The last, but perhaps the most important group are the end users who want actionable insight from the data. Ultimately this sector are the consumers who value the information being provided to them and who drive the requirements for information and services. The range of uses are growing and almost as broad as the entire EO user base. Providing a detailed breakdown is beyond the scope of this resource and more comprehensively addressed in EO market analyses such as those compiled by Euroconsult  and EARSC. But it is clear AI and EO will combine to provide key information across public and private sectors, input to scientific research programmes and NGOs, plus policy advice and monitoring of targets such as UN Sustainable Development Goals.",
   "name" : "End Users"
  }, {
-  "code" : "EOD", \\8
+  "code" : "EOD",
   "description" : "Satellites are used to forecast the weather, answer important Earth-science questions, provide essential information to improve agricultural practices, maritime safety, help when disaster strikes, and all manner of everyday applications. The need for these data is increasing resulting in the diversity and volume of data delivered by EO satellites increasing significantly in recent years.",
   "name" : "EO Data"
  }, {
-  "code" : "TVD", \\9
+  "code" : "TVD",
   "description" : "With respect to ML method development, the lack of suitable training data is a frequently encountered problem. Labelled data is scarce.  The application of ML to EO data can only be realised with high-quality training data which encompasses all the features that we aim to identify, map, and monitor. A diverse and functional AI4EO ecosystem will need to include open training data libraries providing a repository for registering labelled data so that it can be discovered and shared openly. However, there is a reluctance to share such data due to a combination of technical, financial, competitive and policy constraints.",
   "name" : "Training and Validation Data"
  }, {
-  "code" : "TEP", \\10
+  "code" : "TEP",
   "description" : "For the purpose of allowing data, infrastructure, tool, algorithm and knowledge owners to share their assets, allowing users to easily get access to satellite data and extract information out of them without the need to download any dataset. This availability of all the needed ingredients in a shared collaboration environment represents a unique opportunity for science and applications but also poses a major challenge in realizing its full potential in terms of data exploitation. ",
   "name" : "Thematic Exploitation Platforms"
  }, {
-  "code" : "openEO", \\11
+  "code" : "openEO",
   "description" : "openEO develops an open API that connects clients like R, Python and JavaScript to big EO cloud back-ends in a simple and unified way.",
   "url" : "openeo.org",
   "name" : "openEO"
