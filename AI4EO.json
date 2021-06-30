@@ -71,6 +71,10 @@
   "code" : "WR&D",
   "description" : "Beyond these large EC projects are numerous other R&D activities in the private, academic, government and NGO sectors, spanning all topics where EO data is a data input. The most accessible route to a comprehensive view of ‘who is doing what’ can be obtained by looking at the programs of numerous AI for EO conferences and conference sessions in recent years.",
   "name" : "Wider Research and Development Activities"
+ }, {
+  "code" : "DT",
+  "description" : "The rapidly growing area of digital twins for the environment are set to drive the combined use of EO and AI methods in the coming years and decades.",
+  "name" : "Digital Twins"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -454,16 +458,6 @@
   "url" : "https://www.ai4copernicus.org/programme/"
  }, { 
   "concepts" : [ 17 ],
-  "description" : "Nov 2020.",
-  "name" : "Workshop on Big Data and Artificial Intelligence for Earth Observation",
-  "url" : "https://ec.europa.eu/info/events/workshop-big-data-and-artificial-intelligence-earth-observation-2020-nov-19_en"
- }, { 
-  "concepts" : [ 17 ],
-  "description" : "Sep 2020 (filter using the AI4EO tag).",
-  "name" : "Phi Week 2020",
-  "url" : "https://nikal.eventsair.com/esa-phiweek-2020/programme"
- }, { 
-  "concepts" : [ 17 ],
   "description" : "Nov 2019.",
   "name" : "The 1st Artificial Intelligence for Copernicus Workshop",
   "url" : "https://climate.copernicus.eu/1st-artificial-intelligence-copernicus-workshop"
@@ -474,9 +468,29 @@
   "url" : "https://www.copernicus.eu/en/events/events/copernicus-artificial-intelligence"
  }, { 
   "concepts" : [ 17 ],
+  "description" : "Sep 2020 (filter using the AI4EO tag).",
+  "name" : "Phi Week 2020",
+  "url" : "https://nikal.eventsair.com/esa-phiweek-2020/programme"
+ }, { 
+  "concepts" : [ 17 ],
+  "description" : "Nov 2020.",
+  "name" : "Workshop on Big Data and Artificial Intelligence for Earth Observation",
+  "url" : "https://ec.europa.eu/info/events/workshop-big-data-and-artificial-intelligence-earth-observation-2020-nov-19_en"
+ }, { 
+  "concepts" : [ 17 ],
   "description" : "Dec 2020.",
   "name" : "AGU 2020",
   "url" : "https://agu.confex.com/agu/fm20/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=2&searchterm=machine%20learning%20remote%20sensing"
+ }, { 
+  "concepts" : [ 18 ],
+  "description" : "Initiative established by the EC aims to develop a very high precision digital model of the Earth to monitor and simulate natural and human activity.",
+  "name" : "Destination Earth (DestinE)",
+  "url" : "https://ec.europa.eu/digital-single-market/en/destination-earth-destine"
+ }, { 
+  "concepts" : [ 18 ],
+  "description" : "Includes targeted activities on forests, food system, climate, hydrology, oceans and Antarctica.",
+  "name" : "ESA Digital Twin Earth Precursor",
+  "url" : "https://www.esa.int/ESA_Multimedia/Videos/2020/09/Ph-week_-_Digital_Twin_Earth_Precursor_Activities"
  }],
  "creationYear":2021,
  "references":[],
@@ -547,6 +561,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 17,
+  "target" : 5
+ }, {
+  "name" : "is subconcept of",
+  "source" : 18,
   "target" : 5
  }],
  "skills" : [ ],
