@@ -64,6 +64,56 @@
   "description" : " ",
   "name" : "AIREO",
   "url" : "https://www.aireo.net/"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "Kaggle",
+  "url" : "https://www.kaggle.com/datasets"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "Radiant Earth Foundation",
+  "url" : "https://www.radiant.earth"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "Papers with Code",
+  "url" : "https://www.paperswithcode.com/datasets?q=satellite&v=lst&o=match"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "European Data Portal",
+  "url" : "https://www.europeandataportal.eu/en"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "UK Data Service",
+  "url" : "https://www.ukdataservice.ac.uk/"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "Amazon Datasets",
+  "url" : "https://registry.opendata.aws/"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "Knoema World Data Atlas",
+  "url" : "https://knoema.com/atlas/sources"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "US Open Government Data",
+  "url" : "https://data.gov"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "Registry of Research Data Repositories",
+  "url" : "https://www.re3data.org/"
+ }, { 
+  "concepts" : [ 9 ],
+  "description" : " ",
+  "name" : "GEO Biodiversity Observation Network",
+  "url" : "https://portal.geobon.org/datasets"
  }],
  "creationYear":2021,
  "references":[],
