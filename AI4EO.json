@@ -75,6 +75,10 @@
   "code" : "DT",
   "description" : "The rapidly growing area of digital twins for the environment are set to drive the combined use of EO and AI methods in the coming years and decades.",
   "name" : "Digital Twins"
+ }, {
+  "code" : "RN",
+  "description" : "Several research networks and groups are emerging which aim to focus on topics related to AI and EO. These groups broadly aim to coordinate and maintain longer-term activities focused on new methods or wider adoption of these methods.",
+  "name" : "Research networks"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -491,6 +495,31 @@
   "description" : "Includes targeted activities on forests, food system, climate, hydrology, oceans and Antarctica.",
   "name" : "ESA Digital Twin Earth Precursor",
   "url" : "https://www.esa.int/ESA_Multimedia/Videos/2020/09/Ph-week_-_Digital_Twin_Earth_Precursor_Activities"
+ }, { 
+  "concepts" : [ 19 ],
+  "description" : "Strives to bring the worlds of AI and EO closer together to kindle and encourage interaction and collaboration.",
+  "name" : "AI4EO)",
+  "url" : "https://ai4eo.eu"
+ }, { 
+  "concepts" : [ 19 ],
+  "description" : "What role can data science & AI play in addressing the challenges associated with environmental change?",
+  "name" : "Turing Environment & Sustainability interest group",
+  "url" : "https://www.turing.ac.uk/research/interest-groups/environment-and-sustainability"
+ }, { 
+  "concepts" : [ 19 ],
+  "description" : "The Φ-lab’s mission is to accelerate the future of earth observation, by helping Europe’s earth observation and space researchers and companies adopt disruptive technologies and methods.",
+  "name" : "ESA Φ-lab",
+  "url" : "https://blogs.esa.int/philab/"
+ }, { 
+  "concepts" : [ 19 ],
+  "description" : "Machine Learning for Earth And Climate Sciences.",
+  "name" : "ELLIS",
+  "url" : "https://ellis.eu/programs/machine-learning-for-earth-and-climate-sciences"
+ }, { 
+  "concepts" : [ 19 ],
+  "description" : "Artificial Intelligence for Earth Observation – Reasoning, Uncertainties, Ethics and Beyond.",
+  "name" : "Future Lab AI4EO",
+  "url" : "https://ai4eo.de"
  }],
  "creationYear":2021,
  "references":[],
@@ -565,6 +594,10 @@
  }, {
   "name" : "is subconcept of",
   "source" : 18,
+  "target" : 5
+ }, {
+  "name" : "is subconcept of",
+  "source" : 19,
   "target" : 5
  }],
  "skills" : [ ],
