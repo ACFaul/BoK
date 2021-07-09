@@ -123,6 +123,10 @@
   "code" : "CA",
   "description" : "Building skills with courses, certificates, and degrees online from world-class universities and companies.",
   "name" : "Coursera"
+ }, {
+  "code" : "ML",
+  "description" : "Algorithms performing tasks without explicitly programmed to do so. The performance improves through experience during the training phase.",
+  "name" : "Machine Learning"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -727,6 +731,10 @@
   "name" : "is subconcept of",
   "source" : 30,
   "target" : 6
+ }, {
+  "name" : "is subconcept of",
+  "source" : 31,
+  "target" : 0
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
