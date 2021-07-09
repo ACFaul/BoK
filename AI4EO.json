@@ -641,6 +641,31 @@
   "description" : "K clusters are formed by iteratively changing the cluster assignments of data points and recalculating the cluster mean. In the end, each data point belongs to the cluster with the nearest mean.",
   "name" : "K-Means Clustering",
   "url" : "https://en.wikipedia.org/wiki/K-means_clustering"
+ }, { 
+  "concepts" : [ 37 ],
+  "description" : "The processes generating the data follow a Gaussian probability distribution.",
+  "name" : "Gaussian Mixture Models",
+  "url" : "https://scikit-learn.org/stable/modules/mixture.html"
+ }, { 
+  "concepts" : [ 37 ],
+  "description" : "The Expectation-Maximization algorithm iteratively estimates the parameters of of a mixture of distiributions by alternating between approximating the expectation of the log-liklihood given the current parameters and then maximizing this approximation with regards to the parameters.",
+  "name" : "Expectation-Maximization",
+  "url" : "https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm"
+ }, { 
+  "concepts" : [ 37 ],
+  "description" : "The assumption is that the parameters describing the distributions of the processses generating the data themselves follow distributions. The parameter of these distributions, known as hyperparameters, need to be determined.",
+  "name" : "Bayesian Mixture Models",
+  "url" : ""
+ }, { 
+  "concepts" : [ 38 ],
+  "description" : "In the process generating the data, a new data point can either follow one of the distributions of the data already generated or follow a completely new distribution.",
+  "name" : "The Chinese Restaurant Process",
+  "url" : "https://en.wikipedia.org/wiki/Chinese_restaurant_process"
+ }, { 
+  "concepts" : [ 38 ],
+  "description" : "The Dirichlet Process infers the process which generated the data iteratively. The number of clusters can change up or down. Up, if a new data point does not fit well into any of the current clusters. Down, if all data points of a particular cluster are assigned during the iterations to other clusters and that cluster is empty.",
+  "name" : "Dirichlet Process",
+  "url" : "https://en.wikipedia.org/wiki/Dirichlet_process"
  }],
  "creationYear":2021,
  "references":[ ],
