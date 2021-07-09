@@ -127,6 +127,26 @@
   "code" : "ML",
   "description" : "Algorithms performing tasks without explicitly programmed to do so. The performance improves through experience during the training phase.",
   "name" : "Machine Learning"
+ }, {
+  "code" : "CL",
+  "description" : "Grouping unlabelled data such that objects within a group are in some sense similar.",
+  "name" : "Clustering"
+ }, {
+  "code" : "CF",
+  "description" : "From data with class labels the algorithm learns to which class an unseen data point belongs.",
+  "name" : "Classification"
+ }, {
+  "code" : "RG",
+  "description" : "From trainign data the algorithm learns a mapping from input to output and is then used to predict the output for unseen input.",
+  "name" : "Regression"
+ }, {
+  "code" : "DR",
+  "description" : "Data is transformed from a highdimensional feature space to a low dimensional one while retaining the relevant information.",
+  "name" : "Dimensionality Reduction"
+ }, {
+  "code" : "DL",
+  "description" : "In a neural network linear and non-linear transformations are applied to the input data and in subsequent layers. The output layer gives a result. The type of transformations depends on the network architecture. Learning is via the minimisation of a suitable loss function.",
+  "name" : "Deep Learning"
  }],
  "contributors" : [ { 
   "concepts" : [ 0 ],
@@ -735,6 +755,26 @@
   "name" : "is subconcept of",
   "source" : 31,
   "target" : 0
+ }, {
+  "name" : "is subconcept of",
+  "source" : 32,
+  "target" : 31
+ }, {
+  "name" : "is subconcept of",
+  "source" : 33,
+  "target" : 31
+ }, {
+  "name" : "is subconcept of",
+  "source" : 34,
+  "target" : 31
+ }, {
+  "name" : "is subconcept of",
+  "source" : 35,
+  "target" : 31
+ }, {
+  "name" : "is subconcept of",
+  "source" : 36,
+  "target" : 31
  }],
  "skills" : [ ],
  "updateDate":"2021/06/28",
