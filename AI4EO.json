@@ -137,7 +137,7 @@
   "name" : "Classification"
  }, {
   "code" : "RG",
-  "description" : "From trainign data the algorithm learns a mapping from input to output and is then used to predict the output for unseen input.",
+  "description" : "From trainign data the algorithm learns a mapping from input to output and this is then used to predict the output for unseen input.",
   "name" : "Regression"
  }, {
   "code" : "DR",
@@ -716,7 +716,7 @@
   "url" : "https://en.wikipedia.org/wiki/Decision_tree_learning"
  }, { 
   "concepts" : [ 40 ],
-  "description" : "Boosting creates a strong learner (which is well correlated with the true labels) from a set of weak learners (which are slightly better than random guessing.",
+  "description" : "Boosting creates a strong learner (which is well correlated with the true labels) from a set of weak learners (which are slightly better than random guessing).",
   "name" : "Boosting",
   "url" : "https://en.wikipedia.org/wiki/Boosting_(machine_learning)"
  }],
