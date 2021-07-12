@@ -766,9 +766,24 @@
   "url" : "https://en.wikipedia.org/wiki/Bayesian_linear_regression"
  }, { 
   "concepts" : [ 34 ],
-  "description" : "A Gaussian process considers the uncountably infinite space of functions. teh regression model is a distribution over this space.",
+  "description" : "A Gaussian process considers the uncountably infinite space of functions. The regression model is a distribution over this space.",
   "name" : "Gaussian Process",
   "url" : "https://en.wikipedia.org/wiki/Gaussian_process"
+ }, { 
+  "concepts" : [ 35 ],
+  "description" : "The dimensionality of the data is reduced by construction a subspace which explaines most of the variablilty in the data. The remaining variability is within error range. The subspace is described by the principal components which are the eigenvectors of the data's covariance matrix.",
+  "name" : "Principal Component Analysis (PCA)",
+  "url" : "https://en.wikipedia.org/wiki/Principal_component_analysis"
+ }, { 
+  "concepts" : [ 35 ],
+  "description" : "Factor Analysis iteratively generates regressors by using individual noise models for easch regressor.",
+  "name" : "Factor Analysis",
+  "url" : "https://en.wikipedia.org/wiki/Factor_analysis"
+ }, { 
+  "concepts" : [ 35 ],
+  "description" : "Kernel Principal component analysis first uses a non-linear mapping to a higher dimensional space to then use a linear mapping to a lower dimensional space. The mappings are not performed explicitly. Instead the calculations evaluate the kernel function.",
+  "name" : "Kernel Principal Component Analysis",
+  "url" : "https://en.wikipedia.org/wiki/Kernel_principal_component_analysis"
  }],
  "creationYear":2021,
  "references":[ ],
