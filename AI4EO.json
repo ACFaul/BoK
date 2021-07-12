@@ -784,6 +784,11 @@
   "description" : "Kernel Principal component analysis first uses a non-linear mapping to a higher dimensional space to then use a linear mapping to a lower dimensional space. The mappings are not performed explicitly. Instead the calculations evaluate the kernel function.",
   "name" : "Kernel Principal Component Analysis",
   "url" : "https://en.wikipedia.org/wiki/Kernel_principal_component_analysis"
+ }, { 
+  "concepts" : [ 36 ],
+  "description" : "Overview over different kind of nerual networks.",
+  "name" : "Neural Network Zoo",
+  "url" : "https://www.asimovinstitute.org/neural-network-zoo/"
  }],
  "creationYear":2021,
  "references":[ ],
