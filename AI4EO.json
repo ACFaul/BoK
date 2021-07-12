@@ -137,7 +137,7 @@
   "name" : "Classification"
  }, {
   "code" : "RG",
-  "description" : "From trainign data the algorithm learns a mapping from input to output and this is then used to predict the output for unseen input.",
+  "description" : "From trainign data the algorithm learns a mapping from input variables (regressors or predictors) to the output variable (regressand or target) and this is then used to predict the output for unseen input.",
   "name" : "Regression"
  }, {
   "code" : "DR",
@@ -719,6 +719,56 @@
   "description" : "Boosting creates a strong learner (which is well correlated with the true labels) from a set of weak learners (which are slightly better than random guessing).",
   "name" : "Boosting",
   "url" : "https://en.wikipedia.org/wiki/Boosting_(machine_learning)"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "The mapping from input variables to output variable is a linear combination of polynomials of a specified degree.",
+  "name" : "Polynomial Regression",
+  "url" : "https://en.wikipedia.org/wiki/Polynomial_regression"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Ordinary Least Squares optimizes the coefficients by minimizing the sum of squares of the differences between the predicted output and the true observed output.",
+  "name" : "Ordinary Least Squares",
+  "url" : "https://en.wikipedia.org/wiki/Ordinary_least_squares"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "The bias of a model represents the extent to which the average prediction over all data snapshots differs from the true process generating the data. Model variance estimates the extent to which different solutions arising from different snapshots of the data vary around their mean. It indicates how robust the model is to small perturbations in the data. In general, making one smaller increases the other.",
+  "name" : "Bias and Variance",
+  "url" : "https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Overfitting refers to the mapping from input variables to the output variable fitting the training data too well, modelling measurement and other noise as well as the data. The model does not generalize well to unseen data. Underfitting cannot capture the complexity intrinsic to the data.",
+  "name" : "Overfitting and Underfitting",
+  "url" : "https://en.wikipedia.org/wiki/Overfitting"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Multicollinearity arises if one or more predictor variables (regressors) are highly correlated. In a good regression model the regressors correlate minimally with each other, but are each highly correlated with the regressand.",
+  "name" : "Multicollinearity",
+  "url" : "https://en.wikipedia.org/wiki/Multicollinearity"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Instead of the original regressors, the principal components of the regressors are used as predictor variables.",
+  "name" : "Principal Component Regression",
+  "url" : "https://en.wikipedia.org/wiki/Principal_component_regression"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Partial Least Squares constructs new regressors iteratively while aiming to maximize the correlation between regressor and regressand.",
+  "name" : "Partial  Least Squares",
+  "url" : "https://en.wikipedia.org/wiki/Principal_component_regression"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Regularization adds additional contraints. This can be to incorporate a known quality or to avoid overfitting, i.e. unneccessary complexity.",
+  "name" : "Regularization",
+  "url" : "https://en.wikipedia.org/wiki/Regularization_(mathematics)"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "Bayesian regression assumes that the coefficients multiplying the regressands are themselves subject to probability distributions. These distributions are described by hyperparameters. From the data we obtain posterior distributions. The predicitons are then calculated using the mean of the posterior distributions.",
+  "name" : "Bayesian Regression",
+  "url" : "https://en.wikipedia.org/wiki/Bayesian_linear_regression"
+ }, { 
+  "concepts" : [ 34 ],
+  "description" : "A Gaussian process considers the uncountably infinite space of functions. teh regression model is a distribution over this space.",
+  "name" : "Gaussian Process",
+  "url" : "https://en.wikipedia.org/wiki/Gaussian_process"
  }],
  "creationYear":2021,
  "references":[ ],
